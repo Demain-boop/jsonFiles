@@ -1,0 +1,65 @@
+{ "Istanbul" : [
+    {
+        "isim" : "Anadolu Hisarı",
+        "tarih" : "1935",
+        "aciklama" : "Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
+        "uzun_aciklama" : "İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hisarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eser. Göksu Deresi’nin denizle buluştuğu yere ve boğazın en dar noktasına yapılan hisar, bulunduğu semte de adını veriyor. Osmanlı Dönemi’nde Gözlücehisar olarak da anılan, küçük bir kale ve surlardan oluşan yapı; boğazdaki transit geçişleri kontrol altına almak amacıyla Osmanlı mimarisinin en güzel örneklerinden biri olarak hayata geçirilmiş. Bugün hisar çevresinde, manzaraya karşı kahve içip bir şeyler yiyebileceğiniz çok sayıda mekan da var. Beykoz ilçesinde yer alan Anadolu Hisarı’na, Kadıköy ya da Üsküdar iskelelerinden kalkan dolmuşlar aracılığıyla ulaşmanız mümkün.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/anadolu_hisari.jpg"
+    },
+    {
+        "isim" : "Rumeli Hisarı",
+        "tarih" : "1452",
+        "aciklama" : "Sarıyer ilçesi sınırlarına dahil olan yapı İstanbul'un koruyucularından biri",
+        "uzun_aciklama" : "Tam karşısında yer alan Anadolu Hisarı ile birlikte; Rumeli Hisarı da İstanbul Boğazı’nın tarihi koruyucularından biri. Sarıyer ilçesi sınırlarına dahil olan yapı; Saruca Paşa, Halil Paşa ve Zağanus Paşa adlarında üç büyük kuleye sahip. Fatih Sultan Mehmet tarafından inşa ettirilen Rumeli Hisarı’nın tarihi önemi ise, İstanbul’un fethi sırasında oynadığı kritik üs görevinden geliyor. Çeşitli kaynaklarda, hisarın tamamlanma tarihini 1452 olarak bulabilirsiniz. Çarşamba hariç haftanın her günü 09.00-19.00 saatleri arasında gezilebilen hisar, kış döneminde 17.00’de kapanıyor. Açık havada Rumeli Hisarı keyfi yaşamanın en ideal yolu ise, burada yaz akşamlarında düzenlenen konserlerden en az birine katılmak. Rumeli Hisarı, bu bakımdan İstanbul gece hayatı için de vazgeçilmez bir yer olarak ifade edilebilir.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/rumeli_hisari.jpg"
+    },
+    {
+        "isim" : "Yedikule Hisarı",
+        "tarih" : "400 'lü yıllar",
+        "aciklama" : "Yedikule Zindanları olarak da anılan ve halihazırda uzun soluklu bir tadilat sürecine tabi olan yapı.",
+        "uzun_aciklama" : "Sarayburnu ile Bakırköy arasındaki sahil yolunda konumlanan Yedikule Hisarı’nın tarihi 400’lü yıllara kadar geriliyor. Bir dönem hükümdarlık ganimetlerin saklandığı bir yapı olan hisar; İstanbul’un fethinden sonra ise; mahkumların hapsedildiği bir zindan olarak ön plana çıkmış. Tarih derslerinde; Osmanlı padişahlarından Genç Osman’ın yeniçeriler tarafından tahttan indirilip burada katledildiğini okumuş olabilirsiniz.  Yedikule Zindanları olarak da anılan ve halihazırda uzun soluklu bir tadilat sürecine tabi olan yapı, süreç tamamlandıktan sonra tekrar Müze Kart ile ziyaret edilebilir.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/yedikule_hisari.jpg"
+    },
+    {
+        "isim" : "Yoros Kalesi",
+        "tarih" : "",
+        "aciklama" : "Beykoz ilçesinin Anadolu Kavağı mahallesinde konumlanıyor.",
+        "uzun_aciklama" : "Halk arasında Ceneviz Kalesi olarak da anılan Yoros Kalesi; Beykoz ilçesinin Anadolu Kavağı mahallesinde konumlanıyor. İstanbul’un tarihi turistik mekanlar arasında az bilinen bir yapı olan kalenin Ceneviz menşeili olduğuna dair güçlü kalıntılar mevcut. Osmanlı döneminde de askeri üs olarak kullanılan kalenin, boğaz savunmasındaki önemi inkar edilemez. Yoros Kalesi günümüzde muhteşem Karadeniz manzarasından faydalanmak isteyen turistleri çekiyor. Kalenin geniş bahçesinde özel günler düzenlemek ya da kafe bölümünde denize karşı bir şeyler içmek mümkün.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/yoros_kalesi.jpg"
+    },
+    {
+        "isim" : "İmros Kalesi",
+        "tarih" : "17. yy",
+        "aciklama" : "Boğazın Karadeniz girişini korumak amacıyla inşa edilmiştir.",
+        "uzun_aciklama" : "Yoros Kalesi’nin tam karşısında, bu kez Rumeli Kavağı’nda; İstanbul’un tarihi yerleri kapsamında gezebileceğiniz İmros Kalesi var. Boğazın Karadeniz girişini korumak amacıyla inşa edilen ve Cumhuriyet döneminde karakol olarak da kullanılan kalenin; kemerli bir girişten, konaklama ve ibadet yerlerinden, ambarlardan ve cephaneliklerden oluştuğu biliniyor. 17. yüzyıldan bugüne miras kalan kale, Sarıyer sınırları içerisinde ziyaret edilebilir.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/imros_kalesi.jpg"
+    },
+    {
+        "isim" : "",
+        "tarih" : "",
+        "aciklama" : "",
+        "uzun_aciklama",
+        "resim_url" : ""
+    },
+    {
+        "isim" : "Garipçe Kalesi",
+        "tarih" : "",
+        "aciklama" : "Osmanlı İmparatorluğu döneminde, Sultan III. Murad’ın emriyle inşa edilmiştir.",
+        "uzun_aciklama" : "Osmanlı İmparatorluğu döneminde, Sultan III. Murad’ın emriyle inşa edilen Garipçe Kalesi; Sarıyer’e bağlı Garipçe köyünde konumlanıyor. Burası restore edilen ve turistik anlamda biletli girişe tabi tutulan bir kale değil. Yıllar içinde; kaledeki tarihi dokunun da tahribata uğramış olabileceğini kabul etmek gerek. Ancak yine de İstanbul merkezine çok yakın bir hafta sonu kaçamak rotası olan Garipçe’ye ve kalesine bir şans vermelisiniz. Köyde denize girebileceğiniz çok sayıda plaj seçeneği ve özellikle deniz ürünleri tüketebileceğiniz çok sayıda mekan var.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/garipce_kalesi.jpg"
+    },
+    {
+        "isim" : "Riva Kalesi",
+        "tarih" : "1778",
+        "aciklama" : "Osmanlı İmparatorluğu’nun İstanbul’a 1778 yılında miras bıraktığı bir tarihi eser.",
+        "uzun_aciklama" : "Beykoz ilçesinin Riva mahallesinde yer alan Riva Kalesi; Osmanlı İmparatorluğu’nun İstanbul’a 1778 yılında miras bıraktığı bir tarihi eser. Ait olduğu dönemde kaleden Revancık diye de bahsedildiği biliniyor. Tıpkı Garipçe Kalesi gibi; Riva Kalesi de yıllar içinde tahribata uğramış olsa da, Riva plajlarına kadar gelmişken bu kaleye uğramadan dönmek olmaz. Küçük bir ebata sahip olan kaleyi, Riva Çayı’na ve Karadeniz’e ait manzaralar güzelleştiriyor. Kaleye giriş için herhangi bir ücret ödemenize gerek yok. Riva’ya kadar gelmişken; İstanbul’da denize girilebilecek en güzel yerlerden olan Riva Plajı’ndan da faydalanabilirsiniz.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/riva_kalesi.jpg"
+    },
+    {
+        "isim" : "Ocaklı Kale",
+        "tarih" : "",
+        "aciklama" : "İstanbul’un Şile ilçesinde Cenevizlilerden kalan kültür varlıklarından biri.",
+        "uzun_aciklama" : "Şile Kalesi olarak da anılan Ocaklı Kale, İstanbul’un Şile ilçesinde Cenevizlilerden kalan kültür varlıklarından biri. 12 metre yüksekliğindeki kale beyaz renkli kireç taşlarından oluşuyor. Tarih boyunca hem Bizanslılar hem de Osmanlılar tarafından bakım ve onarım gören kaleyi görmeyi, Şile’ye düzenlediğiniz bir deniz gezisi ile birlikte organize edebilirsiniz. Şehrin bu bölümünde kahvaltı için de tercih edebileceğiniz doğal seçenekler var.",
+        "resim_url" : "https://raw.githubusercontent.com/Demain-boop/jsonFiles/master/ocakli_kalesi.jpg"
+    }
+]}
